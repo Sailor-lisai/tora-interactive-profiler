@@ -6,3 +6,5 @@
 *.ear
 /binary
 /bin
+/.classpath
+/.project
